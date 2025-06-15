@@ -40,7 +40,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Train
-lr = LogisticRegression(max_iter=1000)
+lr = LogisticRegression(max_iter=2000)
 lr.fit(X_train, y_train)
 
 # Predict
