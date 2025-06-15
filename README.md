@@ -14,6 +14,8 @@ Accuracy of the model
 ![Image](https://github.com/user-attachments/assets/96279bf5-9ef2-418e-ad22-b0b950d1cb15)
 
 
+
+
 Confusion matrix
 
 ![Image](https://github.com/user-attachments/assets/03086ce2-0081-4a32-aaf9-4a1e253739cd)
