@@ -10,6 +10,7 @@
 #output
 
 Accuracy of the model
+
 ![Image](https://github.com/user-attachments/assets/96279bf5-9ef2-418e-ad22-b0b950d1cb15)
 
 
