@@ -14,11 +14,10 @@ I successfully created a predictive analysis using machine learning model.It is 
 
 Accuracy of the model
 
-
+![Image](https://github.com/user-attachments/assets/13d5b35b-ec7b-4226-8b80-1cb0dfa0727e)
 
 
 
 Confusion matrix
-
 
 ![Image](https://github.com/user-attachments/assets/33c31870-cea1-46b1-b770-67efc7c2f0f2)
