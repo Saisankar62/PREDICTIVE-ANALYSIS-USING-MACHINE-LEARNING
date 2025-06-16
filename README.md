@@ -7,7 +7,8 @@
 **MENTOR**: NEELA SANTOSH
 
 #Description of the task
-I successfully created a predictive analysis using machine learning model. It is a process of building a predictive classification model using machine learning to predict customer churn based on the Telco Customer Churn dataset.Firstly import the libraries like pandas,os,Matplotlib & Seaborn,LabelEncoder / OneHotEncoder.The data set i download from the webbrowser (kaggle),and load using the pandas library.Data Preprocessing opeartions like Drop irrelevant columns,Convert target variable (Churn) to numeric i.e.. 'Yes' -> 1, 'No' -> 0,Converts all categorical columns to binaryformat using one-hot encoding , making them compatible with machine learning algorithms.
+__________________________
+I successfully created a predictive analysis using machine learning model. It is a process of building a predictive classification model using machine learning to predict customer churn based on the Telco Customer Churn dataset.The entire process was carried out using Python in Visual Studio Code, utilizing essential libraries such as pandas, os, matplotlib, seaborn, and encoding tools like LabelEncoder and OneHotEncoder.The data set i download from the webbrowser (kaggle),and load using the pandas library.Data Preprocessing opeartions like Drop irrelevant columns,Convert target variable (Churn) to numeric i.e.. 'Yes' -> 1, 'No' -> 0,Converts all categorical columns to binaryformat using one-hot encoding , making them compatible with machine learning algorithms.
 split features and target:
 X (Features)--> Contains all the columns except the target variable (Churn).These are the input variables used to predict the outcome.
 y (Target)--> Contains only the Churn column, which is the output or label we want to predict.
